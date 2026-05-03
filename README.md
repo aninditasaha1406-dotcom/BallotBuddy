@@ -16,14 +16,13 @@ BallotBuddy is an AI-powered assistant that simplifies the election process by b
 - Next.js
 - React
 - Tailwind CSS
-- v0.dev (AI UI generation)
+
 
 ## ⚙️ How it Works
 Users can explore different sections such as Topics, History, and Timeline to gain a structured understanding of elections.
 
 ## 🔗 Future Scope
 - Add chatbot assistant
-- Voice-based explanations
 - Real-time election updates
 
 ## 📌 Note
